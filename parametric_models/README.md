@@ -1,0 +1,1 @@
+**Foundational topics in statistics**, statistical inference, modeling, and dimensionality reduction.
